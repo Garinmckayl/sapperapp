@@ -1,6 +1,6 @@
 {
-  "name": "sapper",
-  "description": "TODO",
+  "name": "sapperapp",
+  "description": "",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
